@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Dec 09 10:01:06 CET 2022D001 : [0] The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046), [1] a816c00e-0184-f61d-eb05-00000f5885c0, [2] C:\Users\Datart\eclipse-workspace\LodeRunner\scoreDB, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@2d98a335, [4] file:/C:/Users/Datart/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.4.1+1-LTS-2
+user.dir=C:\Users\Datart\eclipse-workspace\LodeRunner
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
